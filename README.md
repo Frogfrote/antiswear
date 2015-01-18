@@ -1,2 +1,2 @@
-# antiswear
-Protect from those words.
+# Anti-Swear
+Minecraft plugin to protect from those words.
