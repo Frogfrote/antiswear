@@ -1,0 +1,5 @@
+texttouser: Don't use that language on this server!
+bannedwords:
+  - test1
+  - test2
+  - test3

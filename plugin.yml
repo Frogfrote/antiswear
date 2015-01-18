@@ -1,0 +1,5 @@
+name: AntiSwear
+author: Frogfrote
+version: 1.1
+description: Bans Swear Words
+main: me.Primalnetwork.Antiswear.Main
